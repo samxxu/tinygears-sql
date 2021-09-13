@@ -1,0 +1,21 @@
+{
+    "name": "tinygears/sql",
+    "description": "A simple tool makes you less painful from coding sql",
+    "type": "library",
+    "require": {},
+    "require-dev": {
+        "phpunit/phpunit": "^9.5"
+    },
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "TinyGears\\Sql\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Sam X. Xu",
+            "email": "samxxu@gmail.com"
+        }
+    ]
+}
